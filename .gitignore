@@ -1,0 +1,22 @@
+# System File Patterns #
+.DS_Store
+
+# File Patterns #
+*.class
+**/.project
+.settings
+*.classpath
+**/dependency-reduced-pom.xml
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Folders #
+**/target/
+
+pom.xml.next
+pom.xml.releaseBackup
+pom.xml.tag
+release.properties
